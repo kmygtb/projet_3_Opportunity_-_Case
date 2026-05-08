@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OPC3</fullName>
+    <types>
+        <members>AccountCasesController</members>
+        <members>AccountOpportunitiesController</members>
+        <members>AccountOpportunitiesControllerTest</members>
+        <members>OpportunitySelector</members>
+        <members>OpportunitySelectorTest</members>
+        <members>TestDataFactory</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Compte_Page_enregistrement</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>accountCasesSearcher</members>
+        <members>accountOpportunitiesViewer</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>58.0</version>
+</Package>
